@@ -1,0 +1,305 @@
+
+    p{
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .buttons{
+    background-color: rgb(216, 228, 225);
+    height: 40pxpx;
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
+ 
+.home-button{
+    background-color: rgb(129, 186, 214);
+    color: azure;
+    border: none;
+    border-radius: 15px;
+    padding: 9px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.contact-button{
+    background-color: rgb(129, 186, 214);
+    color: azure;
+    border: none;
+    border-radius: 15px;
+    padding: 9px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.help-button{
+    background-color: rgb(129, 186, 214);
+    color: azure;
+    border: none;
+    border-radius: 15px;
+    padding: 9px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.about-button{
+    background-color: rgb(129, 186, 214);
+    color: azure;
+    border: none;
+    border-radius: 15px;
+    padding: 9px;
+    margin-right: 100px;
+    cursor: pointer;
+}
+
+.mt{
+    font-size: 30px;
+    text-align: center;
+    background-color: antiquewhite;
+    color: rgb(9, 69, 121);
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    padding: 20px;
+}
+.thechibuezefamily{
+    background-color: azure;
+    font-size: 19px;
+    padding: 19px;
+    text-align: center;
+}
+.fu{
+    color: rgb(90, 49, 0);
+    font-size: 30px;
+    text-align: center;
+}
+.fampic{
+    height: 400px;
+    width: 550px;
+    margin-left: 50px;
+    margin-top: 40px;
+    box-shadow: 10px 10px 50px;
+    margin-bottom: 40px;
+    vertical-align: middle;
+    border-radius: 20px;
+}
+.fampic2{
+    height: 400px;
+    width: 550px;
+    margin-left: 50px;
+    margin-top: 40px;
+    box-shadow: 10px 10px 50px;
+    margin-bottom: 40px;
+    vertical-align: middle;
+    border-radius: 20px;
+}
+.father{
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    display: flex;
+}
+.dad{
+    height: 300px;
+    width: 300px;
+    object-position: center;
+    display: inline;
+    vertical-align: middle;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    object-fit: cover;
+    border-radius: 50%;   
+    box-shadow: 10px 10px 50px 
+
+}
+.dadstats{
+    vertical-align: middle;
+    margin-top: 10px;
+    font-size: 30px;
+    padding: 10px;
+}
+.Th{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 20px;
+}
+.TCCE{
+    vertical-align: middle;
+    margin-left: 10px;
+    font-size: 20px;   
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 20px;
+}
+.nu{
+    color: rgb(90, 49, 0);
+    font-size: 30px;
+    text-align: center;
+
+}
+.Tm{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 20px;
+
+}
+.mum {
+    display: flex;
+    align-items: center;   
+    justify-content: center;
+    gap: 40px;            
+    margin-top: 30px;
+    flex-direction: row-reverse;
+}
+
+.mumspic {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 50%;   
+    box-shadow: 10px 10px 50px 
+}
+
+.mgc {
+    font-size: 20px;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 20px;
+    max-width: 500px; 
+}
+.mumstats{
+    margin-top: 30px;
+    font-size: 30px;
+    padding: 10px;
+    display: inline;
+}
+.nu1{
+    color: rgb(90, 49, 0);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+    display: block;
+    
+
+}
+.Tfs{
+    text-align: center;
+     background-color: antiquewhite;
+     padding: 20px;
+}
+.muanya{
+     justify-content: center;
+    align-items: center;
+    gap: 40px;
+    display: flex;
+}
+.me{
+    display: inline-block ;
+    margin-left: 30px;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 20px;
+
+
+}
+.mypic{
+    height: 300px;
+    width: 300px;
+    object-position: center;
+    display: inline;
+    vertical-align: middle;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    object-fit: cover;
+    border-radius: 50%;   
+    box-shadow: 10px 10px 50px 
+
+}
+.mystats{
+     margin-top: 10px;
+    font-size: 30px;
+    padding: 10px;
+}
+.nu2{
+    color: rgb(90, 49, 0);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+    display: block;
+
+
+}
+.ginika{
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    display: flex;
+}
+.gc{
+    font-size: 22px;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-right: 100px;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 20px;
+    display: inline-block;
+}
+.ginipic{
+    height: 300px;
+    width: 300px;
+    object-position: center;
+    display: inline;
+    vertical-align: middle;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    object-fit: cover;
+    border-radius: 50%;   
+    box-shadow: 10px 10px 50px 
+
+
+}
+.ginistats{
+     margin-top: 10px;
+    font-size: 30px;
+    padding: 10px;
+    vertical-align: middle;
+    display: inline;
+    height: 1px;
+}
+.mmeso{
+     justify-content: center;
+    align-items: center;
+    gap: 40px;
+    display: flex;
+}
+.mc{
+     font-size: 22px;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-right: 100px;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 20px;
+    width: 300px;
+    display: inline-block;
+
+}
+.meso-pic{
+    height: 300px;
+    width: 300px;
+    object-position: center;
+    display: inline;
+    vertical-align: middle;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-left: 120px;
+    object-fit: cover;
+    border-radius: 50%;   
+    box-shadow: 10px 10px 50px 
+
+}
+.meso-stats{
+     margin-top: 10px;
+    font-size: 30px;
+    padding: 10px;
+
+}
